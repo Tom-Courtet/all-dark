@@ -19,7 +19,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://www.hyakanime.fr/*"],
+        "matches": ["Your site here"],
         "css": ["darkModes.css"],
         "js": ["content.js"],
         "run_at": "document_end"
