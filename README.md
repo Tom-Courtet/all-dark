@@ -9,13 +9,13 @@
 
 [fr] Pour sélectionner le site sur lequel vous souhaiter appliquer le mode sombre, rendez-vous dans le fichier "manifest.json" et modifier la ligne 
 ```javascript
-"matches": ["https://www.hyakanime.fr/*"], 
+"matches": ["Your site here"], 
 ```
 en remplacent le lien par celui du site ciblé.
 
 [eng] To select the site on which you want to apply dark mode, go to the "manifest.json" file and modify the line       
 ```javascript
-"matches": ["https://www.hyakanime.fr/*"],
+"matches": ["Your site here"],
 ```  
 by replacing the link with that of the targeted site.
 
