@@ -1,0 +1,29 @@
+/* dark-mode.css */
+
+body.dark-mode {
+    background-color: #0f172a;
+  }
+
+body.dark-mode footer{
+  background-color: #1c2b50;
+}
+
+ .footer-list a{
+  color: #7e98e3;
+}
+
+body.dark-mode .home-listing-title{
+  color: #636d93;
+}
+
+body.dark-mode .articles-titre{
+  color: #636d93;
+}
+
+body.dark-mode .articles-date{
+  color: #636d93;
+}
+footer > div > a{
+  color: #7e98e3;
+}
+
