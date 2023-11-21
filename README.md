@@ -1,7 +1,7 @@
 
 # All-Dark
 
-[fr] All-Dark est une extension Chrome qui vous permet d'avoir un mode sombre sur chaque site Web de votre choix en créant votre propre fichier CSS.
+[fr1] All-Dark est une extension Chrome qui vous permet d'avoir un mode sombre sur chaque site Web de votre choix en créant votre propre fichier CSS.
 
 [eng] All-Dark is a Chrome extension that allows you to have a dark-mode on every website you want by creating your own css file.
 
